@@ -4,29 +4,8 @@
 
 <br>
 <div align=center style="display: flex; justify-content: space-between;">
-
-  <picture style="margin-left: 20;">
-    <source
-      srcset="https://kimi-readme.vercel.app/api?username=kimichenn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Stats&card_width=300"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://kimi-readme.vercel.app/api?username=kimichenn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&custom_title=Stats&card_width=300"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=250 src="https://kimi-readme.vercel.app/api?username=kimichenn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&custom_title=Stats&card_width=300" />
-  </picture>
-  <picture style="margin-right: 20;">
-    <source
-      srcset="https://kimi-readme.vercel.app/api/top-langs/?username=kimichenn&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=ShayminBot&layout=donut&card_width=300&theme=dracula&langs_count=6&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://kimi-readme.vercel.app/api/top-langs/?username=kimichenn&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=ShayminBot&layout=donut&card_width=300&theme=default&langs_count=6&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=250 src="https://kimi-readme.vercel.app/api/top-langs/?username=kimichenn&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=ShayminBot&card_width=300&layout=donut&langs_count=6&hide_border=true" />
-</picture>
+    <img height=250 src="https://kimi-readme.vercel.app/api?username=kimichenn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&custom_title=Stats&card_width=300&theme=dracula" />
+    <img height=250 src="https://kimi-readme.vercel.app/api/top-langs/?username=kimichenn&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=ShayminBot&card_width=300&layout=donut&langs_count=6&hide_border=true&theme=dracula" />
 </div>
 
 <br>
