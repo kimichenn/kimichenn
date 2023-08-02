@@ -5,10 +5,15 @@
 <h3 align=center>I'm a high school senior interested in machine learning and data science.</h3>
 
 <br>
-<div align=center style="display: flex; justify-content: space-between;">
-    <img height=250 src="https://kimi-readme.vercel.app/api?username=kimichenn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&custom_title=Stats&card_width=300&theme=dracula" />
-    <img height=250 src="https://kimi-readme.vercel.app/api/top-langs/?username=kimichenn&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=ShayminBot&card_width=300&layout=donut&langs_count=6&hide_border=true&theme=dracula" />
+<div align=center>
+    <img height=300 src="https://kimi-readme.vercel.app/api?username=kimichenn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&custom_title=My%20Stats&title_color=e5e9f0&text_color=e5e9f0&bg_color=232731" />
+    <img height=300 src="https://kimi-readme.vercel.app/api/top-langs/?username=kimichenn&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=ShayminBot&layout=donut&langs_count=6&hide_border=true&title_color=e5e9f0&text_color=e5e9f0&bg_color=232731&icon_color=81a1c1&text_bold=false" />
 </div>
+<br>
+<div align=center>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimichenn&bg_color=232731&color=e5e9f0&title_color=e5e9f0&line=81a1c1&point=e5e9f0&area=true&area_color=81a1c1&hide_border&custom_title=My%20Contribution%20History&height=450" />
+</div>
+
 
 <br>
 <h2 align="center">Languages and Tools</h2>
