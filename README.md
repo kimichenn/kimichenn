@@ -6,8 +6,8 @@
 
 <br>
 <div align=center>
-    <img height=250 src="https://kimi-readme.vercel.app/api?username=kimichenn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&custom_title=My%20Stats&title_color=e5e9f0&text_color=e5e9f0&bg_color=232731" />
-    <img height=250 src="https://kimi-readme.vercel.app/api/top-langs/?username=kimichenn&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=ShayminBot&layout=donut&langs_count=6&hide_border=true&title_color=e5e9f0&text_color=e5e9f0&bg_color=232731&icon_color=81a1c1&text_bold=false" />
+    <img height=250 src="https://kimi-readme.vercel.app/api?username=kimichenn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&custom_title=My%20Stats&title_color=e5e9f0&text_color=e5e9f0&bg_color=232731&icon_color=81a1c1&text_bold=false" />
+    <img height=250 src="https://kimi-readme.vercel.app/api/top-langs/?username=kimichenn&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=ShayminBot&layout=donut&langs_count=6&hide_border=true&title_color=e5e9f0&text_color=e5e9f0&bg_color=232731" />
 </div>
 <br>
 <div align=center>
@@ -25,10 +25,10 @@
 <h2 align="center">For the curious, here is my VSCode setup</h2>
 <dl><dd><dl><dd><dl><dd><dl><dd>
 <ul>
-	<li>Theme: <a href=https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep>Nord Deep</a> (v1.0.623; the older version with a lighter background)</li>
-	<li>Font: Source Code Pro</li>
-	<li>Font Size: 21 or 24</li>
-	<li>Line Height: 1.75</li>
+	<li><strong>Theme:</strong> <a href=https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep>Nord Deep</a> (v1.0.623; the older version with a lighter background)</li>
+	<li><strong>Font</strong>: Source Code Pro</li>
+	<li><strong>Font Size</strong>: 21 or 24</li>
+	<li><strong>Line Height</strong>: 1.75</li>
 </ul>
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
