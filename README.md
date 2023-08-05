@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align=center>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimichenn&bg_color=232731&color=e5e9f0&title_color=e5e9f0&line=81a1c1&point=e5e9f0&area=true&area_color=81a1c1&hide_border&custom_title=My%20Contribution%20History&height=450" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimichenn&bg_color=232731&color=e5e9f0&title_color=e5e9f0&line=81a1c1&point=e5e9f0&area=true&area_color=81a1c1&hide_border=true&custom_title=My%20Contribution%20History&height=450" />
 </div>
 
 
