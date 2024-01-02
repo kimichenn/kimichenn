@@ -39,10 +39,6 @@
 <h2 align=center>What I'm up to</h2>
 <dl><dd><dl><dd><dl><dd><dl><dd>
 	<ul>
-		<li>🔭 I’m currently working through some Kaggle competitions. Check out my attempts <a href="https://github.com/kimichenn/kaggle-competitions">here</a></li>
 		<li>👯 Check out <a href="https://github.com/kimichenn/nord-deep-mpl-stylesheet">my Nord Deep matplotlib themes</a></li>
-		<li>👨‍💻 All of my projects are available at <a href="https://www.kimichen.net">https://www.kimichen.net</a></li>
-		<li>📫 You can email me at <strong>kimichen1115@gmail.com</strong></li>
-		<li>📄 View my resume <a href="https://www.kimichen.net/resume.pdf">here</a></li>
 	</ul>
 </dd></dl></dd></dl></dd></dl></dd></dl>
