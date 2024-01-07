@@ -40,5 +40,6 @@
 <dl><dd><dl><dd><dl><dd><dl><dd>
 	<ul>
 		<li>👯 Check out <a href="https://github.com/kimichenn/nord-deep-mpl-stylesheet">my Nord Deep matplotlib themes</a></li>
+		<li>🤗 ... or my <a href="https://huggingface.co/kimic">Hugging Face repository</a></li>
 	</ul>
 </dd></dl></dd></dl></dd></dl></dd></dl>
