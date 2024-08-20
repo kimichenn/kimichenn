@@ -2,7 +2,7 @@
     <img src="https://github.com/kimichenn/kimichenn/assets/66824523/ba48963a-6ece-4d7e-adca-011617953421" alt="Hey! I'm Kimi" />
 </div>
 
-<h3 align=center>I'm a freshman interested in machine learning, more specifically reinforcement learning and explainable AI.</h3>
+<h3 align=center>I'm a data science student interested in AI and ML, especially reinforcement learning and explainable AI.</h3>
 
 <br>
 <div align=center>
