@@ -16,7 +16,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,vim,vscode,git,docker,ps,pr,ai,django,flask,js,ts,react,gatsby,html,css,bootstrap,tailwind,netlify,heroku,figma,nodejs,regex,latex,java&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,docker,django,flask,js,ts,react,gatsby,html,css,bootstrap,tailwind,nodejs,regex,latex,java,netlify,heroku,ps,pr,ai,figma,vim,vscode&perline=9" />
 </div>
 <br>
 
