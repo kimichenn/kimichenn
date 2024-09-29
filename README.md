@@ -10,10 +10,11 @@
     <img height=250 src="https://kimi-readme.vercel.app/api/top-langs/?username=kimichenn&size_weight=0.5&count_weight=0.5&count_private=true&exclude_repo=ShayminBot&layout=donut&langs_count=6&hide_border=true&title_color=e5e9f0&text_color=e5e9f0&bg_color=232731" />
 </div> -->
 
-<div align=center>
+<!-- <div align=center>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimichenn&bg_color=232731&color=e5e9f0&title_color=e5e9f0&line=81a1c1&point=e5e9f0&area=true&area_color=81a1c1&hide_border=true&custom_title=My%20Contribution%20History&height=450" />
-</div>
+</div> -->
 
+<br>
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,docker,django,flask,js,ts,react,gatsby,html,css,bootstrap,tailwind,nodejs,regex,latex,java,netlify,heroku,ps,pr,ai,figma,vim,vscode&perline=9" />
