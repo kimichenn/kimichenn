@@ -31,9 +31,9 @@
 </ul>
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
-<div align=center>
+<!-- <div align=center>
     <img height=750 src="https://github.com/kimichenn/kimichenn/assets/66824523/04259995-6cff-4bc4-859e-36b61e548c16" alt="sample code" />
-</div>
+</div> -->
 
 <h2 align=center>What I'm up to</h2>
 <dl><dd><dl><dd><dl><dd><dl><dd>
