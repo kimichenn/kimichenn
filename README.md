@@ -2,7 +2,7 @@
     <img src="https://github.com/kimichenn/kimichenn/assets/66824523/ba48963a-6ece-4d7e-adca-011617953421" alt="Hey! I'm Kimi" />
 </div>
 
-<h3 align=center>I'm a data science student interested in AI and ML, especially reinforcement learning and explainable AI.</h3>
+<h3 align=center>I'm a data science student interested in AI/ML, specifically reinforcement learning, computer vision, and interpretable/explainable AI.</h3>
 
 
 <!-- <div align=center>
@@ -17,7 +17,7 @@
 <br>
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,docker,django,flask,js,ts,react,gatsby,html,css,bootstrap,tailwind,nodejs,regex,latex,java,netlify,heroku,ps,pr,ai,figma,vim,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,cpp,c,java,sqlite,git,docker,js,ts,react,html,css,bootstrap,tailwind,nodejs,django,flask,ps,pr,ai,figma,vim,vscode&perline=9" />
 </div>
 <br>
 
@@ -26,8 +26,8 @@
 <ul>
 	<li><strong>Theme:</strong> <a href=https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep>Nord Deep</a> (v1.0.623; the older version with a lighter background)</li>
 	<li><strong>Font</strong>: Source Code Pro</li>
-	<li><strong>Font Size</strong>: 21 or 24</li>
-	<li><strong>Line Height</strong>: 1.75</li>
+<!-- 	<li><strong>Font Size</strong>: 21 or 24</li>
+	<li><strong>Line Height</strong>: 1.75</li> -->
 </ul>
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
