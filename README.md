@@ -39,6 +39,6 @@
 <dl><dd><dl><dd><dl><dd><dl><dd>
 	<ul>
 		<li>👯 Check out my <a href="https://github.com/kimichenn/nord-deep-mpl-stylesheet">Nord Deep matplotlib themes</a></li>
-		<li>🤗 ... or my <a href="https://huggingface.co/kimic/pacman">Pacman Dataset</a> on HuggingFace</li>
+		<li>🤗 ... or my <a href="https://huggingface.co/datasets/kimic/pacman">Pacman Dataset</a> on HuggingFace</li>
 	</ul>
 </dd></dl></dd></dl></dd></dl></dd></dl>
